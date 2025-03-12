@@ -9,7 +9,7 @@ I enjoy building efficient and scalable solutions while exploring new technologi
 
 ## 🔧 Tech Stack & Tools  
 ![Languages](https://skillicons.dev/icons?i=php,js,ts,python,html,css)  
-![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,vscode)  
+![Tools](https://skillicons.dev/icons?i=phpstorm,git,github,vscode)  
 
 ---
 

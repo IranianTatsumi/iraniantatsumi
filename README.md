@@ -26,7 +26,8 @@ I enjoy building efficient and scalable solutions while exploring new technologi
 ---
 
 ## 🎯 Currently Learning  
-- 📘 **Chinese (From Scratch)** 🌍  
+- 📘 **Chinese** 🌍
+- 📘 **Japanese** 🌍  
 - 🛠️ **Advanced Plugin Development & Optimization**  
 
 ---

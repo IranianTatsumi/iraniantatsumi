@@ -8,18 +8,20 @@ I enjoy building efficient and scalable solutions while exploring new technologi
 ---
 
 ## 🔧 Tech Stack & Tools  
-![Languages](https://skillicons.dev/icons?i=php,js,ts,python,html,css)  
-![Tools](https://skillicons.dev/icons?i=phpstorm,git,github,vscode)  
+![Languages](https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark)  
+![Tools](https://skillicons.dev/icons?i=sublime,phpstorm,git,github,vscode&theme=dark)  
 
 ---
 
 ## 🏆 Featured Projects  
+🌟 [**House Plugin**](https://github.com/yourrepo) - A system for managing protected areas  
+🌟 [**Custom Items Manager**](https://github.com/yourrepo) - Adds new item mechanics and customization  
 
 ---
 
 ## 📊 GitHub Stats  
-![iraniantatsumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iraniantatsumi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraniantatsumi&layout=compact&theme=radical)  
+![iraniantatsumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iraniantatsumi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraniantatsumi&layout=compact&theme=tokyonight)  
 
 ---
 

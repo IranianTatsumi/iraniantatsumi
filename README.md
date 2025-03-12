@@ -35,6 +35,6 @@ I enjoy building efficient and scalable solutions while exploring new technologi
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/iraniantatsumi)  
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iraniantatsumi)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourserver)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/r9nhwUnB)  
 
 🚀 Always building, learning, and improving! 🔥  

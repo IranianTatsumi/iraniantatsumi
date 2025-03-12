@@ -14,8 +14,7 @@ I enjoy building efficient and scalable solutions while exploring new technologi
 ---
 
 ## 🏆 Featured Projects  
-🌟 [**House Plugin**](https://github.com/yourrepo) - A system for managing protected areas  
-🌟 [**Custom Items Manager**](https://github.com/yourrepo) - Adds new item mechanics and customization  
+
 
 ---
 
